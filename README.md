@@ -1,1 +1,1 @@
-﻿# Problemas de programação usando a linguagem C
+﻿# Programming problems using the C language
